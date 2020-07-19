@@ -49,3 +49,23 @@ You are required to submit the following:
 * The URL to the deployed application
 
 * The URL to the Github repository
+
+# Workout Tracker Using Mongoose
+
+### Installation 
+
+* Open the desired terminal clone the repo into it. 
+
+* Change directory to the Develop folder
+
+* Enter command: npm i
+
+* Enter command: node server
+
+* Open localhost:3000
+
+### How to Use
+
+* Home interface allows 
+
+
