@@ -10,6 +10,9 @@
 
 * Open localhost:3000
 
+### Deployed Link 
+
+* https://nosqlweek17.herokuapp.com/
 
 
 
