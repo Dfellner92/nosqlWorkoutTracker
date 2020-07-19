@@ -1,7 +1,8 @@
+// uses the mongoose package
 const mongoose = require("mongoose");
-
+// allows for easy access to the mongoose schema
 const Schema = mongoose.Schema;
-
+// Schema based on the api 
 const workoutSchema = new Schema({
   day: {
     type: Date,

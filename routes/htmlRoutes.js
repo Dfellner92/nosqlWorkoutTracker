@@ -1,3 +1,4 @@
+// uses the path and express packages to direct to the html files
 const path = require("path");
 const app = require("express").Router();
 
